@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30128.74
+VisualStudioVersion = 16.0.28714.193
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorGmail", "BlazorGmail\BlazorGmail.csproj", "{1D937999-2F30-4BB8-A812-AF3D22383366}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorExcel", "BlazorExcel\BlazorExcel.csproj", "{616C3AD7-4D6A-4F33-A5C7-EC4A31C47D1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorGmail", "BlazorGmail\BlazorGmail.csproj", "{B302E091-2F12-4E61-8D6A-229C8F960D71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,19 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1D937999-2F30-4BB8-A812-AF3D22383366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1D937999-2F30-4BB8-A812-AF3D22383366}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1D937999-2F30-4BB8-A812-AF3D22383366}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1D937999-2F30-4BB8-A812-AF3D22383366}.Release|Any CPU.Build.0 = Release|Any CPU
-		{616C3AD7-4D6A-4F33-A5C7-EC4A31C47D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{616C3AD7-4D6A-4F33-A5C7-EC4A31C47D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{616C3AD7-4D6A-4F33-A5C7-EC4A31C47D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{616C3AD7-4D6A-4F33-A5C7-EC4A31C47D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B302E091-2F12-4E61-8D6A-229C8F960D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B302E091-2F12-4E61-8D6A-229C8F960D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B302E091-2F12-4E61-8D6A-229C8F960D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B302E091-2F12-4E61-8D6A-229C8F960D71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2DACA91A-E4C6-4614-9602-6F4CF42D5C4A}
+		SolutionGuid = {09140DAB-580B-429D-AFFF-6A938FE900C5}
 	EndGlobalSection
 EndGlobal

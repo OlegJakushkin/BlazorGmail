@@ -2,11 +2,11 @@ using System;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace BlazorExcel.Data
+namespace BlazorGmail.Services
 {
     public class WeatherForecastService
     {
-        private static readonly string[] Summaries = new[]
+        private static string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };

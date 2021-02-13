@@ -22,6 +22,7 @@ namespace BlazorGmail
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
+                    webBuilder.UseUrls("http://*");
                     webBuilder.UseStartup<Startup>();
                 });
     }
